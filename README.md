@@ -1,6 +1,8 @@
 # 📘 Perfumes & Psicologia — Projeto de IA e Análise de Dados  
 **Autor:** Ana Luiza Souto e Matheus Leão 
+
 **Curso:** Modelagem Estatistica
+
 **Dataset:** Perfume & Psychology ([Kaggle, CC BY-N](https://www.kaggle.com/datasets/priyanshubhaskar/perfume-and-psychology))
 
 ---
