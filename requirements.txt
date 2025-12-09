@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+scipy
+joblib
+pycaret==2.3.10  # opcional, apenas se for usar pycaret
+rapidfuzz  # opcional, apenas para fuzzy matching
+xgboost    # opcional, para modelos avançados
