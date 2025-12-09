@@ -1,4 +1,4 @@
-# 📘 Perfumes & Psicologia — Projeto de IA e Análise de Dados  
+# 📘 Perfumes & Psicologia — Projeto Modelagem Estatística  
 **Autor:** Ana Luiza Souto e Matheus Leão 
 
 **Curso:** Modelagem Estatistica
