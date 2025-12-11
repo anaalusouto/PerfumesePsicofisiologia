@@ -1,0 +1,13 @@
+{
+  "stratify_holdout_used": true,
+  "stratify_trval_used": true,
+  "n_total": 44,
+  "n_trval": 37,
+  "n_test": 7,
+  "n_train": 29,
+  "n_val": 8,
+  "final_class_counts": {
+    "unknown": 41,
+    "other_rares": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rare_threshold": 1,
+  "group_name": "other_rares",
+  "original_n_classes": 4,
+  "final_n_classes": 2,
+  "rare_classes_sample": [
+    "treatment of agitated behavior in patients with severe dementia",
+    "increased the percentage of deep or slowwave sleep in men and women and decreased rapideye movement sleep",
+    "reduced the stress levels and the pain intensity of needle insertion"
+  ]
+}
